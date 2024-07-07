@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Structure-guided isoform identification for the human transcriptome"
 authors:
 - Markus J Sommer 
 - admin
