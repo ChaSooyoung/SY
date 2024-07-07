@@ -99,19 +99,18 @@ languages:
   - name: French
     percent: 75
 
-Awards.
+# Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: ''
-    # url: ''
-    # certificate_url: ''
-    date: ''
-    awarder: ''
-    # icon: ''
-    # summary: |
-#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+# awards:
+#   - title: ''
+#     url: ''
+#     certificate_url: ''
+#     date: ''
+#     awarder: ''
+#     icon: ''
+#     summary: ''
 ---
 
 ## About Me
