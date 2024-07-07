@@ -49,8 +49,8 @@ education:
     institution: Seoul National University
     date_start: 2019-03-01
     date_end: 2024-02-26
-    summary: |
-      GPA: 3.52/4.3
+    summary: ''
+      # GPA: 3.52/4.3
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -64,13 +64,13 @@ skills:
       - name: C++
         description: ''
         percent: 90
-        # icon: cplusplus-line
-        icon: code-bracket
+        icon: cplusplus-line
+        # icon: code-bracket
       - name: Matlab
         description: ''
         percent: 80
-        # icon: matlab-line
-        icon: code-bracket
+        icon: matlab-line
+        # icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -78,18 +78,18 @@ skills:
       - name: Reading
         description: ''
         percent: 90
-        # icon: read-svgrepo-com
-        icon: code-bracket
+        icon: read-svgrepo-com
+        # icon: code-bracket
       - name: Ballet
         description: ''
         percent: 90
-        # icon: ballet-shoes-svgrepo-com
-        icon: code-bracket
+        icon: ballet-shoes-svgrepo-com
+        # icon: code-bracket
       - name: Walk
         description: ''
         percent: 100
-        # icon: cperson-simple-walk
-        icon: code-bracket
+        icon: cperson-simple-walk
+        # icon: code-bracket
 
 languages:
   - name: Korean
