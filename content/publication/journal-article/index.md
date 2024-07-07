@@ -9,7 +9,7 @@ authors:
 doi: "https://doi.org/10.7554/eLife.82556.sa0"
 
 # Schedule page publish date (NOT publication's date).
-<!-- publishDate: "2017-01-01T00:00:00Z" -->
+publishDate: "2024-07-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,11 +23,11 @@ publication_short: ""
 abstract: Recently developed methods to predict three-dimensional protein structure with high accuracy have opened new avenues for genome and proteome research. We explore a new hypothesis in genome annotation, namely whether computationally predicted structures can help to identify which of multiple possible gene isoforms represents a functional protein product. Guided by protein structure predictions, we evaluated over 230,000 isoforms of human protein-coding genes assembled from over 10,000 RNA sequencing experiments across many human tissues. From this set of assembled transcripts, we identified hundreds of isoforms with more confidently predicted structure and potentially superior function in comparison to canonical isoforms in the latest human gene database. We illustrate our new method with examples where structure provides a guide to function in combination with expression and evolutionary evidence. Additionally, we provide the complete set of structures as a resource to better understand the function of human genes and their isoforms. These results demonstrate the promise of protein structure prediction as a genome annotation tool, allowing us to refine even the most highly curated catalog of human proteins. More generally we demonstrate a practical, structure-guided approach that can be used to enhance the annotation of any genome.
 
 # Summary. An optional shortened abstract.
-<!-- summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. -->
+summary: ''
 
 tags:
-<!-- - Source Themes
-featured: false -->
+- ''
+featured: false
 
 # links:
 # - name: ""
