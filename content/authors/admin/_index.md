@@ -42,7 +42,7 @@ profiles:
 
 interests:
   - Bioinformatics software development
-  - Protein complex..
+  - Protein complex
 
 education:
   - area: BSc Electrical and Computer Engineering
