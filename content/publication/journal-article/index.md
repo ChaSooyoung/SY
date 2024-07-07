@@ -1,12 +1,20 @@
 ---
-title: "Structure-guided isoform identification for the human transcriptome"
+title: "An example journal article"
 authors:
 - Markus J Sommer 
 - admin
 - ...
 - Martin Steinegger
 - Steven L Salzberg
-doi: "https://doi.org/10.7554/eLife.82556.sa0"
+author_notes:
+- "Equal contribution"
+- "Author"
+- "Author"
+- "Corresponding author"
+- "Corresponding author"
+
+date: "2022-12-15T00:00:00Z"
+doi: "https://doi.org/10.7554/eLife.82556"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-07T00:00:00Z"
