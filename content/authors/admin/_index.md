@@ -76,15 +76,15 @@ skills:
       - name: Reading
         description: ''
         percent: 90
-        icon: custom/read-svgrepo-com
+        icon: custom/read-svgrepo-com.svg
       - name: Ballet
         description: ''
         percent: 90
-        icon: custom/ballet-shoes-svgrepo-com
+        icon: custom/ballet-shoes-svgrepo-comsvg
       - name: Walk
         description: ''
         percent: 100
-        icon: custom/walk-svgrepo-com
+        icon: custom/walk-svgrepo-comsvg
 
 languages:
   - name: Korean
