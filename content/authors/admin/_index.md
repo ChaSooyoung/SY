@@ -82,7 +82,7 @@ skills:
       - name: Ballet
         description: ''
         percent: 90
-        icon: custom/ballet-shoes-svgrepo-com
+        icon: custom/ballet-shoes
       - name: Walk
         description: ''
         percent: 100
