@@ -36,7 +36,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/ChaSooyoung
   - icon: brands/linkedin
-    url: www.linkedin.com/in/sooyoung-cha-b1065a267
+    url: https://linkedin.com/in/sooyoung-cha-b1065a267
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-7211-4603
   - icon: brands/x
