@@ -39,6 +39,8 @@ profiles:
     url: www.linkedin.com/in/sooyoung-cha-b1065a267
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-7211-4603
+   - icon: brands/x
+    url: https://x.com/ChaSooyoung37?t=nsSniUEp-UcKh4CGLJbp-A&s=32
 
 interests:
   - Bioinformatics software development
