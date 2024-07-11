@@ -64,11 +64,11 @@ skills:
       - name: C++
         description: ''
         percent: 90
-        icon: custon/cplusplus-line
+        icon: custom/cplusplus-line
       - name: Matlab
         description: ''
         percent: 80
-        icon: custon/matlab-line
+        icon: custom/matlab-line
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -76,15 +76,15 @@ skills:
       - name: Reading
         description: ''
         percent: 90
-        icon: custon/read-svgrepo-com
+        icon: custom/read-svgrepo-com
       - name: Ballet
         description: ''
         percent: 90
-        icon: custon/ballet-shoes-svgrepo-com
+        icon: custom/ballet-shoes-svgrepo-com
       - name: Walk
         description: ''
         percent: 100
-        icon: custon/walk-svgrepo-com
+        icon: custom/walk-svgrepo-com
 
 languages:
   - name: Korean
