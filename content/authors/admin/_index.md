@@ -66,11 +66,11 @@ skills:
       - name: C++
         description: ''
         percent: 90
-        icon: devicon/cplusplus-plain
+        icon: custom/cpp
       - name: Matlab
         description: ''
         percent: 80
-        icon: devicon/matlab-original
+        icon: custom/matlab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -78,7 +78,7 @@ skills:
       - name: Reading
         description: ''
         percent: 90
-        icon: custom/read-svgrepo-com
+        icon: custom/book
       - name: Ballet
         description: ''
         percent: 90
