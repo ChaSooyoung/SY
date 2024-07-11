@@ -53,6 +53,11 @@ education:
     date_end: 2024-02-26
     summary: ''
       # GPA: 3.52/4.3
+    - area: Integrated Ph.D in Bioinformatics
+      institution: Seoul National University
+      date_start: 2024-09-01
+      date_end: ''
+      summary: ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
