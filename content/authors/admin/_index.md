@@ -45,7 +45,7 @@ interests:
   - Protein complex
 
 education:
-  - area: BSc Electrical and Computer Engineering
+  - area: B.Sc. in Electrical and Computer Engineering
     institution: Seoul National University
     date_start: 2019-03-01
     date_end: 2024-02-26
@@ -64,12 +64,12 @@ skills:
       - name: C++
         description: ''
         percent: 90
-        icon: cplusplus-line
+        icon: cplusplus-line.svg
         # icon: code-bracket
       - name: Matlab
         description: ''
         percent: 80
-        icon: matlab-line
+        icon: matlab-line.svg
         # icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
@@ -78,12 +78,12 @@ skills:
       - name: Reading
         description: ''
         percent: 90
-        icon: read-svgrepo-com
+        icon: read-svgrepo-com.svg
         # icon: code-bracket
       - name: Ballet
         description: ''
         percent: 90
-        icon: ballet-shoes-svgrepo-com
+        icon: ballet-shoes-svgrepo-com.svg
         # icon: code-bracket
       - name: Walk
         description: ''
@@ -114,4 +114,4 @@ languages:
 ---
 
 ## About Me
-Sooyoung Cha is a graduate student of Bioinformatics at SteineggerLab, Seoul National University. Her research interests include development of tools for bioinformatics and multimeric protein analysis.
+Sooyoung Cha is a graduate student of Bioinformatics at SteineggerLab, Seoul National University. Her research interests include multimeric protein analysis and development of bioinformatics tools.
