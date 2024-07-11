@@ -39,7 +39,7 @@ profiles:
     url: www.linkedin.com/in/sooyoung-cha-b1065a267
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-7211-4603
-   - icon: brands/x
+  - icon: brands/x
     url: https://x.com/ChaSooyoung37?t=nsSniUEp-UcKh4CGLJbp-A&s=32
 
 interests:
@@ -78,15 +78,15 @@ skills:
       - name: Reading
         description: ''
         percent: 90
-        icon: custom/read-svgrepo-com.svg
+        icon: custom/read-svgrepo-com
       - name: Ballet
         description: ''
         percent: 90
-        icon: custom/ballet-shoes-svgrepo-comsvg
+        icon: custom/ballet-shoes-svgrepo-com
       - name: Walk
         description: ''
         percent: 100
-        icon: custom/walk-svgrepo-comsvg
+        icon: custom/walk-svgrepo-com
 
 languages:
   - name: Korean
