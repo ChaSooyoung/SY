@@ -62,15 +62,15 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: custom/python
+        icon: devicon/python
       - name: C++
         description: ''
         percent: 90
-        icon: custom/cplusplus
+        icon: devicon/cplusplus
       - name: Matlab
         description: ''
         percent: 80
-        icon: custom/matlab
+        icon: devicon/matlab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
