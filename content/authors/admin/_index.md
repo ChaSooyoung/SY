@@ -86,7 +86,7 @@ skills:
       - name: Walk
         description: ''
         percent: 100
-        icon: custom/walk-svgrepo-com
+        icon: custom/person-simple-walk
 
 languages:
   - name: Korean
