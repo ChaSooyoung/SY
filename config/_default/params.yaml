@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: light
-  color: emerald
+  # color: emerald
 
 # SEO
 marketing:
