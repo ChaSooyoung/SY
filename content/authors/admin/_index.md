@@ -62,7 +62,7 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: custom/python-original
+        icon: custom/python
       - name: C++
         description: ''
         percent: 90
