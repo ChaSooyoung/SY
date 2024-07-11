@@ -64,11 +64,11 @@ skills:
       - name: C++
         description: ''
         percent: 90
-        icon: custom/cplusplus-line
+        icon: devicon/cplusplus-line
       - name: Matlab
         description: ''
         percent: 80
-        icon: custom/matlab-line
+        icon: devicon/matlab-line
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
