@@ -83,7 +83,7 @@ skills:
       - name: Reading
         description: ''
         percent: 90
-        icon: custom/book
+        icon: custom/simple-book
       - name: Ballet
         description: ''
         percent: 90
