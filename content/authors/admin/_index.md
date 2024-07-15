@@ -34,7 +34,7 @@ profiles:
     url: mailto:ellen2g@snu.ac.kr
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/ChaSooyoung
+    url: https://github.com/sooyoung-cha
   - icon: brands/linkedin
     url: https://linkedin.com/in/sooyoung-cha-b1065a267
   - icon: academicons/orcid
